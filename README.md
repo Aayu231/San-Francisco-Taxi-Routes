@@ -1,4 +1,4 @@
-Maps are fun :P
+Maps are fun 😜
 
 Practicing various visualization techniques and understanding dataset of San-Francisco-Taxi-Routes.
 
