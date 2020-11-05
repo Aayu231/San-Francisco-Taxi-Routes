@@ -5,6 +5,3 @@ Practicing various visualization techniques and understanding dataset of San-Fra
 A comparion between hybrid and K-means approaches.
 
 Maps are fun 😜
-
-
-IS this useful??
